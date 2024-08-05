@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-image: url("../Assets/Images/station.jpg");
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background-color: darkred;
+}
+
+#save-btn {
+    background-color: darkgreen;
+}
+
+#save-el {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: red;
+}
